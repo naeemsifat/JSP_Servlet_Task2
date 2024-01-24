@@ -15,7 +15,7 @@ This project involves developing a basic CRUD (Create, Read, Update, Delete) app
 
 1. Clone this repository : https://github.com/naeemsifat/JSP_Servlet_Task2.git
 2. Go to the folder directory
-3  Set up the project environment with JDK 1.8 and Tomcat 9
+3. Set up the project environment with JDK 1.8 and Tomcat 9
 4. Create a database named "customer_db".
 5. Update the `jdbcURL`, `jdbcUsername` and `jdbcPassword` with your MySQL credentials.
 6. Build and run the project on server.
