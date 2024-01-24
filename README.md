@@ -26,6 +26,7 @@ This project involves developing a basic CRUD (Create, Read, Update, Delete) app
 - jstl-1.2.jar
 - mysql-connector-j-8.3.0.jar
 - servlet-api-2.5.jar
+- Bootstrap
 
 ## Testing
 
